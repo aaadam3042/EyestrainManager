@@ -11,4 +11,4 @@ bash EyestrainManager.sh
 ```
 
 ## Implementation: ##
-This is a CLI implementation using python
+This is a CLI implementation using python3
