@@ -10,7 +10,7 @@ cd EyestrainManager
 bash EyestrainManager.sh
 ```
 
-## Instruction Guide ##:
+## Instruction Guide: ##
 - Follow prompts as they appear
 - Ctrl + C at any time to quit the program
 
