@@ -1,7 +1,11 @@
 from Timer import Timer
 
+ALARM_SOUND_FILE = "./src/assets/alarm.mp3"
+
 def app():
-    time = Timer()
+    timer = Timer()
+    timer.load_alarm(ALARM_SOUND_FILE)
+    timer.run()
 
 if __name__ == '__main__':
     app()
